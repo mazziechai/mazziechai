@@ -1,16 +1,13 @@
-### Hi there 👋
+## Introduction
 
-<!--
-**mazziechai/mazziechai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**I'm Mazzie!** I'm an aspiring programmer.
 
-Here are some ideas to get you started:
+I've been interested in programming and computers for more than a decade and have good fundamental knowledge, but I lack experience with larger projects. 
+I hope that in publishing my projects to GitHub and helping others with their projects, I will learn valuable skills to help me get a step in the door for my career.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me
+
+- **Pronouns**:              it/its
+- **Programming languages**: C#, Python, Java
+- **Human languages**:       English, learning 中文 (普通话) and Tagalog
+- **Interests**:             FOSS, Minecraft modding, veganism, ferrets
