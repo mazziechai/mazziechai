@@ -8,6 +8,6 @@ I hope that in publishing my projects to GitHub and helping others with their pr
 ## About me
 
 - **Pronouns**:              it/its
-- **Programming languages**: C#, Python, Java
-- **Human languages**:       English, learning 中文 (普通话) and Tagalog
-- **Interests**:             FOSS, veganism, ferrets, Puyo Puyo
+- **Programming languages**: Python, Java
+- **Human languages**:       English, toki pona
+- **Interests**:             FOSS, ferrets, Puyo Puyo
