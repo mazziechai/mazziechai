@@ -8,6 +8,5 @@ I hope that in publishing my projects to GitHub and helping others with their pr
 ## About me
 
 - **Pronouns**:              it/its
-- **Programming languages**: Python, Java
+- **Programming languages**: Python, Kotlin
 - **Human languages**:       English, toki pona
-- **Interests**:             FOSS, ferrets, Puyo Puyo
