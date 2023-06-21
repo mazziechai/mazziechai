@@ -5,7 +5,7 @@
 ## About me
 
 - **Pronouns**:              it/its
-- **Programming languages**: Python, Kotlin
+- **Programming languages**: Python, Kotlin, Java
 - **Human languages**:       English, toki pona
 
 Community team member for [QuiltMC](https://quiltmc.org/en/), a modloader for Minecraft.
